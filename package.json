@@ -1,0 +1,10 @@
+{
+  "name": "effective-type-design-patterns",
+  "author": {
+    "name": "Baijanath Tharu"
+  },
+  "dependencies": {
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
+  }
+}
